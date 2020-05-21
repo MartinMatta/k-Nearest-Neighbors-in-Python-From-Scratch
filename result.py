@@ -37,7 +37,7 @@ else:
 
 
 
-data = Dataset(os.getcwd() + "/dataset/Iris.csv",
+data = Dataset(os.getcwd() + "/Iris.csv",
                test_split=float(args["test_split"])
                )
 
