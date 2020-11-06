@@ -1,5 +1,7 @@
 # k-Nearest Neighbors in Python From Scratch
 
+![system schema](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1531424125/KNN_final_a1mrv9.png)
+
 ### Prerequisites:
 * pandas ≥ 1.0.0
 * numpy ≥ 1.18.0
